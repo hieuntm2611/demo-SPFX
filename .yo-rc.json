@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "iq-test",
+    "libraryId": "057af09d-5121-449e-bce9-dc15683aa520",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "IQTest",
+    "solutionShortDescription": "IQTest description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

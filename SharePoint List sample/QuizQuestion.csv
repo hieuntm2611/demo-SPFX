@@ -1,0 +1,6 @@
+﻿"Title","QuizType","Question","CorrectAnswer","ListAnswer"
+"Q1","Text","What number should replace the question mark: 0, 4, 2, 6, 3, 7, 3.5, ? ","7.5",
+"Q2","Singlechoice","What number should replace the question mark: 1, 101, 15, 4, 29, –93, 43, –190, ?","57","57- 3 - 43 - 54 - 14"
+"Q3","Singlechoice","The United States of America (USA) has {blank} states","51","49 - 50 - 51 - 52 - 53"
+"Q4","Singlechoice","Which number is the odd one out: 9678 4572 5261 5133 3527 6895 7768","3527","9678 - 4572 - 5261 - 5133 - 3527 - 6895 -7768"
+"Q5","Text","Find five consecutive numbers below that total 22: 7 3 9 6 4 1 3 7 9 3 5 4 1 7 6 5","93541",

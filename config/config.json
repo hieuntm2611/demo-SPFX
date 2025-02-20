@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "iq-test-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/iqTest/IqTestWebPart.js",
+          "manifest": "./src/webparts/iqTest/IqTestWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "IqTestWebPartStrings": "lib/webparts/iqTest/loc/{locale}.js"
+  }
+}
